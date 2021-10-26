@@ -1,6 +1,6 @@
 
    
-<!DOCTYPE html>
+<!DOCTYPE md>
 <html class="no-js" lang="en">
 
 <head>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        Hari Shrawgi is an MTech AI student at the Indian Institute of Science where he is working to improve the theoretical foundations of deep learning. He got interested in ML during his under-graduation, doing extensive applied research which led to five research publications. Working on sensitive applied domains such as biomedicine and gene-editing, he realized the need for trustworthy and explainable AI. This need underpins his research goal - to develop theory that can lead to more trustworthy AI models. In his free time, he loves saving virtual worlds in video games.
+                        Shobhit is an MTech AI student at the Indian Institute of Science where he is working to resuce the word error rate(WER) for speech-to-text applications and implement Federated learning for on-dive personalization. He got interested in ML during his UPSC(union Public Service Commission preparation).
                     </p>
                 </div>
             </div>
@@ -90,31 +90,26 @@
         <h2 class="heading">Education</h2>
         <div class="education-block">
             <h3>Indian Institute of Science</h3>
-            <span class="education-date">August 2019 - May 2021</span>
+            <span class="education-date">August 2020- May 2022</span>
             <h4>Master of Technology in Artificial Intelligence</h4>
             <ul>
+             
                 <li>
-                    Top of the first ever AI batch from IISc with a CGPA of 9.7/10.
-                </li>
+                    I work in the ZEN(Zeero energy Networks) lab with Principle research scientist Prof. TV Prabhakar. My Thesis work is to implement privacy preserving Federated Learning for Speech-to-Text applications.
                 <li>
-                    I work in the LISA lab under Prof. Kunal Narayan Chaudhary. Our work revolves around theoretical ML and optimization.
-                </li>
-                <a href="https://sites.google.com/site/kunalnchaudhury/home">Link to Dr. Kunal's homepage.</a>
             </ul>
         </div>
         <!-- End .education-block -->
 
         <div class="education-block">
-            <h3>National Institute of Technology Raipur</h3>
-            <span class="education-date">August 2014 - May 2018</span>
-            <h4>Bachelor of Technology in Computer Science</h4>
+            <h3>National Institute of Technology Durgapur</h3>
+            <span class="education-date">August 2013 - May 2017</span>
+            <h4>Bachelor of Technology in Electrical Engineering </h4>
             <ul>
                 <li>
-                    Completed my B. Tech majoring in Artificial Intelligence with a grade of 9.61/10.
+                    Completed my B. Tech majoring in Electrical Engineering with a grade of 8.57/10.
                 </li>
-                <li>
-                    It was here where I got fascinated by AI and started AI research.
-                </li>
+                
             </ul>
         </div>
         <!-- End .education-block -->
@@ -122,234 +117,5 @@
     <!-- End #education -->
 
 
-    <div id="experience" class="background-alt">
-        <h2 class="heading">Experience</h2>
-        <div id="experience-timeline">
-          <div data-date="May 2020 – July 2020">
-              <h3>Microsoft</h3>
-              <h4>Data Scientist Intern</h4>
-              <p>
-
-                Interned with the ‘Trustworthy Fundamentals’ team at Bing which focuses on issues around Trust and Fairness. Majority of my time as an intern was devoted to building models to detect search queries
-                that can spread political misinformation and hatred. I also developed a twitter bot using these models to detect tweets which may lead to misinformation.
-
-                  <ul>
-                    Developed a model to detect suspicious political queries in order to prevent misinformation leakage from Bing
-                  </ul>
-                  <ul>
-                    Designed and implemented a custom BERT model based on manually engineered features along with query text
-                  </ul>
-                  <ul>
-                    Improved the Precision/Recall of existing query detection pipeline from (87/06) to (90/58)
-                  </ul>
-
-              </p>
-          </div>
-
-            <div data-date="July 2018 – May 2019">
-                <h3>Broadcom (CA Technologies)</h3>
-                <h4>R&D Engineer</h4>
-                <p>
-                    Worked as an R&D Engineer for the product CA Single Sign-on under the security division. It is a product that serves most of the Fortune 500 companies and is deployed on the biggest scales of enterprise software in the world. Following are the highlights of my contribution to the product and the company:
-                    <ul>
-                      Designed and implemented a feature to support Cross Origin Resource Sharing across SSO. It allows customers to use different domains without the browser restricting the request-response flow.
-                    </ul>
-                    <ul>
-                      Designed a prototype to implement a ledger system to track new hire onboarding. The ledger system was based on blockchain technologies.
-                    </ul>
-
-                </p>
-            </div>
-
-            <div data-date="May 2017 – Julu 2017">
-                <h3>Australian National University</h3>
-                <h4>Research Intern</h4>
-                <p>
-                    Worked under the guidance of Prof. Brett Lidbury in the interdiscilinary field of Bioinformatics:
-                    <ul>
-                      Applied machine learning and data mining to biomedical research data
-                    </ul>
-                    <ul>
-                      Identified new bio-markers for diagnosis of CFS/ME neural disease
-                    </ul>
-                    <ul>
-                      Developed a model to evaluate the performance of various pathological labs across Australia
-                    </ul>
-
-                </p>
-            </div>
-
-        </div>
-    </div>
-    <!-- End #experience -->
-
-    <div id="publications">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <h2 class="heading">Publications</h2>
-                </div>
-                <div class="col-md-8">
-
-                    <p><a href="https://doi.org/10.1016/j.chemolab.2019.04.008">
-                      [1] Shrawgi H., Sisodia D., 2019. Convolution Neural Network Model for Predicting Single Guide RNA Efficiency in CRISPR/Cas9 System. Chemometrics and Intelligent Laboratory Systems.
-                    </a></p>
-                    <p><a href="https://link.springer.com/chapter/10.1007/978-981-13-0923-6_47">
-                      [2] Sisodia, D.S., Borkar, R. and Shrawgi, H., 2019. Performance Evaluation of Large Data Clustering Techniques on Web Robot Session Data. In Machine Intelligence and Signal Analysis (pp. 545-553). Springer, Singapore.
-                    </a></p>
-                    <p><a href="https://link.springer.com/chapter/10.1007/978-981-10-6890-4_8">
-                      [3] Sharaff, A., Verma, A. and Shrawgi, H., 2018. Generic Document Classification Using Clustering, Centrality, and Voting. In Proceedings of the International Conference on Computing and Communication Systems (pp. 85-94). Springer, Singapore.
-                    </a></p>
-                    <p><a href="http://ieeexplore.ieee.org/document/7942580/">
-                      [4] Sharaff, A., Shrawgi, H., Arora, P. and Verma, A., 2016, December. Document Summarization by Agglomerative nested clustering approach. In 2016 IEEE International Conference on Advances in Electronics, Communication and Computer Technology (ICAECCT) (pp. 187-191). IEEE.
-                    </a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End #about -->
-
-
-    <div id="projects" class="background-alt">
-        <h2 class="heading">Recent Projects</h2>
-        <div class="container">
-            <div class="row">
-              <div class="project no-image">
-<!--
-                  <div class="project-image">
-                      <img src="images/Subtransition/subtransition2.png" />
-                  </div>
--->
-                  <!-- End .project-image -->
-
-                  <div class="project-info">
-                      <h3>Sample complexity reduction for Deep Reinforcement Learning algorithms</h3>
-                      <p>
-                          Developed a new technique to reduce training sample requirements for Hierarchical RL algorithms. The technique recycles the data collected at a lower temporal scale for training
-                          higher temporal layers. The technique is very easy to plug into most existing and widely used HRL algorithms. The techinque was observed to reduce the training data requirements
-                          for HDQN by 50% in a simple MDP setup.
-                      </p>
-
-                  </div>
-                  <!-- End .project-info -->
-              </div>
-              <!-- End .project -->
-
-
-
-                <div class="project no-image">
-<!--
-                    <div class="project-image">
-                        <img src="images/Crispr/crispr4.jpg" />
-                    </div>
--->
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>CNN based guide prediction for CRISPR/Cas9 system</h3>
-                        <p>
-                            The CRISPR/Cas9 system for gene editing relies heavily on the selection of a good RNA guide. The manual selection process is both difficult and expensive. As part of my B. Tech major project, I developed a CNN model to automate this process. Below are short pointers related to the project:
-                            The model was trained on over 400,000 data points from approx. 400 human cell lines. The model outperformed all conventional machine learning models which are dependent on feature enineering.
-                        </p>
-                        <a href="https://doi.org/10.1016/j.chemolab.2019.04.008">View Publication related to this project.</a>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-
-                <div class="project no-image">
-<!--
-                    <div class="project-image">
-                        <img src="images/cfs/cfs.jpg" />
-                    </div>
--->
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Bio-marker identification for Chronic Fatigue Syndrome</h3>
-                        <p>
-                          Used Neural Networks coupled with ROC curve analysis to discover biomarkers for clinical diagnosis of CFS. Substantiated the results with a systematic review on 60 NCBI research works and articles. The new biomarkers can lead to detection of CFS through pathological tests which was not feasible before.
-                        </p>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-            </div>
-        </div>
-    </div>
-    <!-- End #projects -->
-
-    <div id="skills">
-        <h2 class="heading">Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Machine Learnig</li>
-            <li> Deep Learning</li>
-            <li>Java</li>
-            <li>Pytorch</li>
-            <li>C</li>
-            <li>C++</li>
-            <li>Bioinformatics</li>
-            <li>R</li>
-            <li>MATLAB</li>
-            <li>Android</li>
-            <li>Transformers</li>
-        </ul>
-    </div>
-    <!-- End #skills -->
-
-    <div class="optional-section background-alt">
-      <h2 class="heading">Achievements and Community Service</h2>
-
-        <div class="optional-section-block">
-            <h3>
-            <ul>
-                <li>
-                    Secured All India Rank 6 among 100,000 candidates in GATE 2019 exam.
-                </li>
-                <li>
-                    Winner of UNICEF special recognition award for designing the best android app for Maternal and Antenatal care.
-                </li>
-                <li>
-                    Worked with the District Education Officer of Raipur to teach 950 underprivileged students throughout the district.
-                </li>
-                <li>
-                    Taught biology and mathematics to rural students in a remotely located govt. school as a volunteer to the Unnat Bharat Abhiyan programme.
-                </li>
-            </ul>
-            </h3>
-        </div>
-        <!-- End .optional-section-block -->
-
-      </div>
-      <!-- End .optional-section -->
-
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-5 copyright">
-                    <p>
-                        Copyright &copy; 2019 Hari Shrawgi
-                    </p>
-                </div>
-                <div class="col-sm-2 top">
-                    <span id="to-top">
-                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
-                    </span>
-                </div>
-                <div class="col-sm-5 social">
-                    <ul>
-                        <li>
-                            <a href="https://github.com/harishrawgi" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/in/harishrawgi/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- End footer -->
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/scripts.min.js"></script>
+   
 </body>
